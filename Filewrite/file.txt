@@ -1,3 +1,1 @@
-
- This_is_2nd_next_linenew dataThis_is_2nd_next_line
-This_is_2nd_next_line
+Replaced Content

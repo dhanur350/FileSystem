@@ -1,0 +1,3 @@
+Create a file name file.txt in this current folder and use command 
+node delete.js
+File will be successfully deleted

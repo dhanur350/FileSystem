@@ -9,10 +9,10 @@ const content = '\nThis_is_2nd_next_line';
         return;
     }
     console.log("File modified successfully");
-})*/
-fs.appendFile('file.txt',content, function(err){
+});*/
+fs.writeFile('file.txt','Replaced Content',function(err){
     if(err){
-        console.log("Something goes wrong");
+        console.log("Something went wrong",err);
     }
-    return true;
+    console.log("File content replaced successfully");
 });
