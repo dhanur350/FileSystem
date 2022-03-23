@@ -7,7 +7,7 @@ fs.writeFile(fname, 'Hello bhai', function (err, file) {
     else {
         console.log(`File created and written succesfully ${fname} ${file}`);
     }
-})
+});
 const read = fs.createReadStream('file.txt', 'utf-8');
 read.on('data', function (chunk) {
     console.log(chunk);
