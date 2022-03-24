@@ -1,0 +1,6 @@
+ODM in NoSQL and ORM in SQL 
+Roll Base Access Control (RBCA)
+Concurrency
+Node FileSystem 'fs' in npm -> Stream
+Deep copy shallow copy and spread operator, how objects are created in these ..
+Sample file
